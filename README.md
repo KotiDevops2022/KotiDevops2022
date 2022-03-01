@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KotiDevops2022
-- 👀 I’m interested in Software
+- 👀 I’m interested in Software Engineer
 - 🌱 I’m currently learning Devops
 - 💞️ I’m looking to collaborate on Devops
 - 📫 How to reach me kotesh.manipal@gmail.com
